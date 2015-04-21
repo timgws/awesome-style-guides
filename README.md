@@ -39,7 +39,7 @@ Bring designs to life with bold visual elements and engaging interactions
 * **Website**: http://sfdc-styleguide.herokuapp.com/
 
 ## WooThemes
-* **Website**: http://www.ibm.com/design/language/
+* **Website**: http://www.woothemes.com/style-guide/
 
 Brand assets and guidelines
 
